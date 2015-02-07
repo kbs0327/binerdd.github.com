@@ -6,7 +6,8 @@ categories: howto
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
-#Ruby 
+#시작하기전
+> 친절한 가이드와 달리 설치과정에서 수많은 에러를 만나게 된다.. 당황하지 말고 설치를 성공해보자. 
 
 Examples for different formats and css features
 
