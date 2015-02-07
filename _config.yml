@@ -13,8 +13,8 @@ logo: "/assets/images/df_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'JaeWon Min'
+author: 'JaeWon Min'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -22,6 +22,7 @@ paginate:	5
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 
+econding: "utf-8"
 # social icons and sharing options
 social:
   - icon:	twitter
