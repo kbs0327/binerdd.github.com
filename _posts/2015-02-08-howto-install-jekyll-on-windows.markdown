@@ -10,9 +10,10 @@ image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 > 친절한 가이드와 달리 설치과정에서 수많은 에러를 만나게 된다.. 당황하지 말고 설치를 성공해보자. 
 
 #파일 다운로드
-[Ruby Installer](http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.5.exe?direct)
-[Ruby DevTools](http://cdn.rubyinstaller.org/archives/devkits/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe)
-[Python 2.7](https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi)
+[Ruby Installer](http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.5.exe?direct) <br>
+[Ruby DevTools](http://cdn.rubyinstaller.org/archives/devkits/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe) <br>
+[Python 2.7](https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi) <br>
+[pip](https://bootstrap.pypa.io/get-pip.py)
 
 #Ruby 및 DevTools 설치
 먼저 Ruby를 설치한 후(설치 옵션에서 Ruby를 PATH에 등록 선택), 
