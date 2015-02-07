@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Howto Install Jekyll On Windows"
+title: "Howto Install Jekyll On Windows"
 date:   2015-02-08 03:00:25
 categories: howto
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
-#시작하기전
-> 친절한 가이드와 달리 설치과정에서 수많은 에러를 만나게 된다.. 당황하지 말고 설치를 성공해보자.
-
-#Ruby 및 Ruby DevTools 다운로드 및 설치
+#Ruby 
 
 Examples for different formats and css features
 
