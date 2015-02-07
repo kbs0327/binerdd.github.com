@@ -23,8 +23,10 @@ gem install jekyll
 
 이럴 경우 gem 의 소스 url을 HTTP 주소로 바꿔주면 된다. 
 
+{% highlight shell%}
 gem source -r https://rubygems.org
 gem source -a http://rubygems.org
+{% endhighlight%}
 
 #Header1
 ##Header2
